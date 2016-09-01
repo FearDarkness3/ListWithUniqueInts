@@ -1,0 +1,6 @@
+D:\Programming\projects\ListWithUniqueInts\ListWithUniqueInts\bin\Debug\ListWithUniqueInts.exe.config
+D:\Programming\projects\ListWithUniqueInts\ListWithUniqueInts\bin\Debug\ListWithUniqueInts.exe
+D:\Programming\projects\ListWithUniqueInts\ListWithUniqueInts\bin\Debug\ListWithUniqueInts.pdb
+D:\Programming\projects\ListWithUniqueInts\ListWithUniqueInts\obj\Debug\ListWithUniqueInts.csprojResolveAssemblyReference.cache
+D:\Programming\projects\ListWithUniqueInts\ListWithUniqueInts\obj\Debug\ListWithUniqueInts.exe
+D:\Programming\projects\ListWithUniqueInts\ListWithUniqueInts\obj\Debug\ListWithUniqueInts.pdb
